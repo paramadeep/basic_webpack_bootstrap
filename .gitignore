@@ -1,0 +1,4 @@
+node_modules
+dist/*.js
+dist/main.js.LICENSE.txt
+yarn.lock
